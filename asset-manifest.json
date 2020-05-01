@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "./static/css/main.92e01773.chunk.css",
+    "main.js": "./static/js/main.f02d91c2.chunk.js",
+    "main.js.map": "./static/js/main.f02d91c2.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.57fbd9c4.js",
+    "runtime-main.js.map": "./static/js/runtime-main.57fbd9c4.js.map",
+    "static/js/2.770b2c82.chunk.js": "./static/js/2.770b2c82.chunk.js",
+    "static/js/2.770b2c82.chunk.js.map": "./static/js/2.770b2c82.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.1c88811b9839e32181c9aca1bc960608.js": "./precache-manifest.1c88811b9839e32181c9aca1bc960608.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/main.92e01773.chunk.css.map": "./static/css/main.92e01773.chunk.css.map",
+    "static/js/2.770b2c82.chunk.js.LICENSE.txt": "./static/js/2.770b2c82.chunk.js.LICENSE.txt",
+    "static/media/main.sass": "./static/media/Lato-Regular.2d36b1a9.ttf",
+    "static/media/index.sass": "./static/media/schema.755d05c0.png",
+    "static/media/_maket.sass": "./static/media/maketText.c7f73526.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.57fbd9c4.js",
+    "static/js/2.770b2c82.chunk.js",
+    "static/css/main.92e01773.chunk.css",
+    "static/js/main.f02d91c2.chunk.js"
+  ]
+}
